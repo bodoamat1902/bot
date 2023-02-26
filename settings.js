@@ -1,5 +1,5 @@
 /*
-› Create By @RIY
+› Create By @Ibnu
 › Base Ori @DikaArdnt
 › Kalau mau tambahin fitur di index.js
 › Edit text menu di file language › help.js
@@ -22,31 +22,31 @@ global.APIKeys = {
 }
 
 //—————「 Setting Owner 」—————//
-global.owner = ['6281575886399','6281575886399','6281575886399'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-global.premium = ['6281575886399'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-global.ownernomer = '6281575886399' //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.owner = ['6281314205935','6281314205935','6281314205935'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.premium = ['6281314205935'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.ownernomer = '6281314205935' //ubah jadi nomor mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'Riy' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = 'Chika-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = 'Riy' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = 'Inuu' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.botname = 'Ibnu-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.footer = 'Inuu' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
-global.youtube = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw'
-global.ig = 'https://instagram.com/riychdwayne'
-global.mygc = 'https://chat.whatsapp.com/CRY23lVKmXB7sCMhHmcwVw'
-global.myweb = 'https://s.id/chikabot'
-global.email = 'riychdwaynee@gmail.com'
+global.youtube = '-'
+global.ig = 'https://instagram.com/permen1947?igshid=YmMyMTA2M2Y='
+global.mygc = '-'
+global.myweb = '-'
+global.email = 'ibnuazis526@gmail.com'
 global.region = 'indonesia'
 
 //—————「 Set Wm 」—————//
-global.packname = '© Chika-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.author = 'Riy' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.packname = '© Ibnu-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.author = 'Inuu' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Session 」—————//
 //gausah di apa² in!
-global.sessionName = 'session'
+global.sessionName = 'ibnu'
 
 //—————「 Set Limit 」—————//
 //terserah mau ubah atau nggak, note : tanda ' gausah di hapus!
